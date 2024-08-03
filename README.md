@@ -16,10 +16,10 @@ The training script is found under '**training.py**'. Choices in architecture an
 
 ## Trained models
 
-Trained models for all modality configurations and both networks can be downloaded [here]().  
+Trained models for all modality configurations and both networks can be downloaded [here](https://drive.google.com/uc?export=download&id=https://drive.google.com/drive/folders/15tiAk2PcOAgedWPIRqg0HGwkklxRA1mO?usp=drive_link).  
 
 ## Citations
 
 If you find this repository useful in your research, please consider citing our paper:
 
-*De Sutter, S., Wuts, J., Geens, W. et al. Modality redundancy for MRI-based glioblastoma segmentation. Int J CARS (2024). https://doi.org/10.1007/s11548-024-03238-4* <!--[[BibTex]]-->
+*De Sutter, S., Wuts, J., Geens, W. et al. Modality redundancy for MRI-based glioblastoma segmentation. Int J CARS (2024). https://doi.org/10.1007/s11548-024-03238-4* 

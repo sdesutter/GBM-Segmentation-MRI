@@ -16,7 +16,7 @@ The training script is found under '**training.py**'. Choices in architecture an
 
 ## Trained models
 
-Trained models for all modality configurations and both networks can be downloaded [here](https://drive.google.com/uc?export=download&id=https://drive.google.com/drive/folders/15tiAk2PcOAgedWPIRqg0HGwkklxRA1mO?usp=drive_link).  
+Trained models for all modality configurations and both networks can be downloaded [here](https://drive.google.com/drive/folders/15tiAk2PcOAgedWPIRqg0HGwkklxRA1mO?usp=sharing).  
 
 ## Citations
 
